@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "constant",
+      "type": "com.mac.constant.SqlRequest",
+      "sourceType": "com.mac.constant.SqlRequest"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
